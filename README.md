@@ -7,3 +7,8 @@
 
 💻 **Tech Stack**  
 - **Languages**: C++ , Python , HTML , CSS
+
+  Check out my linkedin and medium from the links below:
+  Medium: https://medium.com/@sb12121111
+  Linkedin: www.linkedin.com/in/m-sadra-bakhtyiari-ba88172b2
+  

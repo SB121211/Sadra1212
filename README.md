@@ -5,4 +5,4 @@
 - 🔭 Currently studying mathemaics at school.    
 
 💻 **Tech Stack**  
-- **Languages**: C++ , Python , HTML , Css 
+- **Languages**: C++ , Python , HTML , CSS

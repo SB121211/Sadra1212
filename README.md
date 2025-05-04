@@ -1,7 +1,7 @@
 # Hi, I'm Sadra! 👋
 
 🌱 **About Me**  
-- 🧑‍💻 Bug hunter with 2 years of experience in cyber security.  
+- 🧑‍💻 Bug hunter, cyber security activist and tool developer.  
 - 🔭 Currently studying mathemaics at school.    
 
 💻 **Tech Stack**  
